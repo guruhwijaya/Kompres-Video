@@ -1,7 +1,7 @@
 {
  "name": "Status WA HD",
  "short_name": "Status HD",
- "start_url": "./status-wa-hd-max.html",
+ "start_url": "./",
  "display": "standalone",
  "background_color": "#0b1437",
  "theme_color": "#0b1437",
